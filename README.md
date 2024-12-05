@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aththas&label=Profile%20views&color=0e75b6&style=flat" alt="aththas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aththas" alt="aththas" /></a> </p>
-
 - 🔭 I’m currently working on [Visitor Intern Entry Management System](https://github.com/Aththas/mob-iam-backend.git)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aththas](https://github.com/Aththas)
