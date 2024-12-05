@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Aththas Rizwan</h1>
 <h3 align="center">Aspiring Software Engineer with a solid foundation in Java, C, PHP, and JavaScript. Passionate about Web and Mobile Application Development, eager to contribute innovative solutions to a software team, and committed to continuous learning. Experienced in the full software development lifecycle, with the ability to ensure efficient, collaborative processes and adhere to best programming practices.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aththas&label=Profile%20views&color=0e75b6&style=flat" alt="aththas" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=aththas&label=Profile%20views&color=0e75b6&style=flat" alt="aththas" /> </p>
 
 - 🔭 I’m currently working on [Visitor Intern Entry Management System](https://github.com/Aththas/mob-iam-backend.git)
 
