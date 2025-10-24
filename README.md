@@ -5,9 +5,11 @@
 
 - 🔭 I’m currently working on [Visitor Intern Entry Management System](https://github.com/Aththas/mob-iam-backend.git)
 
+- 🔭 I’m currently practising major information security and privacy frameworks, including the ISO/IEC 27001 ISMS standard, its ISO/IEC 27002 control guidelines, and the privacy extensions ISO/IEC 27701 and ISO/IEC 29100
+
 - 👨‍💻 All of my projects are available at [https://github.com/Aththas](https://github.com/Aththas)
 
-- 💬 Ask me about **Java, JavaScript, C, PHP, RHEL Configuation, CIS Benchmark**
+- 💬 Ask me about **Java, JavaScript, C, PHP, Server Configuation, CIS Benchmark, Security and Network tools and best practises, Identity and Access Management Domain tools and best pracices, VAPT, SIEM, Security Governance**
 
 - 📫 How to reach me **aththasrizwan123@gmail.com**
 
