@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aththas Rizwan</h1>
-<h3 align="center">Aspiring Software Engineer with a solid foundation in Java, C, PHP, and JavaScript. Passionate about Web and Mobile Application Development, eager to contribute innovative solutions to a software team, and committed to continuous learning. Experienced in the full software development lifecycle, with the ability to ensure efficient, collaborative processes and adhere to best programming practices.</h3>
+<h3 align="center">Information Security Engineer with a background in software development. Leverages a strong foundation in Java, C, PHP, and JavaScript to build secure and robust systems. Experienced across the full software development lifecycle, bringing a developer's mindset to security challenges and ensuring best practices in both code and infrastructure.</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aththas&label=Profile%20views&color=0e75b6&style=flat" alt="aththas" /> </p>
 
